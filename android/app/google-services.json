@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "158217576757",
+    "project_id": "amthalshaabeya",
+    "storage_bucket": "amthalshaabeya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158217576757:android:d82c777d5350e18ae9ec7c",
+        "android_client_info": {
+          "package_name": "com.example.amtha_sha3beya_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4QfzPwMPtFBDzcREViAANnHcxfwaop8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158217576757:android:e930f5f653bbd81fe9ec7c",
+        "android_client_info": {
+          "package_name": "com.neutron.amthela_sha3beya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4QfzPwMPtFBDzcREViAANnHcxfwaop8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158217576757:android:48b641638997d648e9ec7c",
+        "android_client_info": {
+          "package_name": "com.neutron.amthelasha3beya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4QfzPwMPtFBDzcREViAANnHcxfwaop8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
